@@ -1,0 +1,313 @@
+ /* styling top section */
+ #top-footer{
+    line-height: 1.83;
+    letter-spacing: 2.4px;
+    text-align: center;
+    color: #999999;
+    margin:0px;
+    padding:0px;
+    border-color: transparent;
+    width: 100%;
+    height: 53px;
+    background-color:rgb(14, 13, 13); 
+  }
+  .navbar{
+    line-height: 1.83;
+    letter-spacing: 2.4px;
+    text-align: center;
+    color: #999999;
+    margin:0px;
+    padding:0px;
+    border-color: transparent;
+    width: 100%;
+    height: 53px;
+    background-color:rgb(243, 237, 237); 
+  }
+  #firstone{
+    text-align: left;
+    color:rgb(153, 153, 153);
+  }
+  #secondone{
+    text-align: center;
+    color:rgb(153, 153, 153);
+  }
+  #navbar{
+    background-color:white;
+    
+  }
+  a{
+      color:rgb(153, 153, 153);
+  }
+
+  #shop{
+      text-align: center;
+      width:100%;
+      height:445px;
+      background-color: rgb(51, 51, 51);
+  }
+  #head1{
+    padding-top: 200px;
+    height: 35px;
+    font-family: SourceSansPro;
+    font-size: 50px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: 5px;
+    text-align: center;
+    color:rgb(255, 255, 255);
+  }
+  #buttongroup{
+    border: none;
+    color: white;
+    padding-top:60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: transparent;
+  }
+
+  #shopbook{
+    width:100%;
+    height:1610px;
+    background-color:rgb(245, 245, 245);
+  }
+   #shopbook2{
+     width:100%;
+     height:100%;
+     background-color:rgb(245, 245, 245);
+   } 
+  
+/* styiling bottom section */
+  #bottomfooter{
+    width: 100%;
+    height: 100%;
+    background-color:rgb(45, 40, 39); 
+  }
+  .pic-block{
+    width:80px;
+    height:80px;
+    background-color: white;
+    margin:px;
+    border:5px solid rgb(46, 44, 44);
+  }
+  h7{
+    color:white;
+  }
+  
+  p1{
+    width: 799px;
+  height: 64px;
+  font-family: SourceSansPro;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: rgb(102, 102, 102);
+  }
+
+  h1{
+	color:rgb(51, 51, 51);
+	
+	/* image properties */
+  }
+  #img1{
+    
+    padding-top: 20px;
+    height:300px;
+    width:300px;
+  }
+  #img2{
+    padding-top: 20px;
+    height:300px;
+    width:300px
+  }
+  #img3{
+    padding-top: 20px;
+    height:300px;
+    width:300px;
+  }
+  #img4{
+    padding-bottom: 30px;
+    padding-top: 30px;
+    height:300px;
+    width:300px;
+  }
+  #nextpage{
+    text-align: center;
+    padding-bottom:80px;
+    color:black;
+  }
+  .contact{
+    color:rgb(150, 148, 148);
+  }
+  #shop-button{
+    width: 180px;
+    height: 44px;
+  background-color: rgb(172, 144, 127);
+  }
+/* css for image gallery */
+
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Arial;
+  }
+  
+  /* The grid: Four equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 25%;
+    padding: 10px;
+  }
+  
+  /* Style the images inside the grid */
+  .column img {
+    opacity: 0.8; 
+    cursor: pointer; 
+  }
+  
+  .column img:hover {
+    opacity: 1;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  #row1{
+    width:100%;
+    height:100%;
+    background-color:rgb(245, 245, 245);
+  
+  }
+  #row2{
+    width:100%;
+    height:100%;
+    background-color:rgb(51, 51, 51);
+  }
+  #row3{
+    width:100%;
+    height:100%;
+    background-color:rgb(245, 245, 245);
+  }
+  #lookbookImage{
+    width:50%;
+    height:300px;
+  }
+  * { margin: 0px; padding: 0px; }
+  
+
+#top-footer{
+    line-height: 1.83;
+    letter-spacing: 2.4px;
+    text-align: center;
+    color:white;
+    margin:0px;
+    padding:0px;
+    border-color: transparent;
+    width: 100%;
+    height: 53px;
+    background-color:rgb(66, 66, 66); 
+  }
+.table{
+	border:transparent;
+	margin:opx;
+	padding:0px;
+}
+#images{
+    height:200px;
+    width:200x;
+}
+
+#three{
+	
+    width:100%;
+    background-color: #d61212;
+}
+#bottomfooter{
+    width: 100%;
+    height: 100%;
+    background-color:rgb(45, 40, 39); 
+  }
+  .pic-block{
+    width:80px;
+    height:80px;
+    background-color: white;
+    margin:px;
+    border:5px solid rgb(46, 44, 44);
+  }
+  h7{
+    color:white;
+  }
+
+
+#wrapper{
+	overflow: hidden;
+	height: 1153px;
+	width: 1643px;
+	background:#fff;
+}
+
+#sidebar{
+	
+	background:#fff;
+	width:275px;	
+	padding:13px 0 0 45px;
+	height:1400px;
+	border-right:1px solid #eee;
+}
+#sidebar h3{
+	color:#262626;
+	text-transform:uppercase;
+	font-size:14px;
+	font-weight:700;
+	padding:35px 0 10px 0;
+	letter-spacing:1px;
+	clear:both;
+}
+#cart{padding:0px;}
+#cart .empty{
+	font-style:italic;
+	color:#a0a3ab;
+	font-size:14px;
+	letter-spacing:1px;	
+}
+
+#navbar {
+	z-index:100;
+	background-color:rgb(51, 51, 51);
+	overflow: hidden;
+  }
+  
+  #navbar a {
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+  }
+  
+  #navbar a:hover {
+	background-color: rgb(10, 10, 10);
+	color: black;
+  }
+  
+  #navbar a.active {
+	background-color: rgb(15, 15, 15);
+	color: white;
+  }

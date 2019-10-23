@@ -31,3 +31,7 @@ table{
 .list li{
     margin: 0 20px;
 }
+.row-footer{
+    align-items: center;
+    padding-top: 6rem;
+}
