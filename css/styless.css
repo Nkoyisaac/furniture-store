@@ -46,19 +46,22 @@ html,
     width: 33%;
 } 
 
-.navbar{
+.navi{
     margin: auto;
     opacity: 0.7;
     background-color: black;
-    position: fixed;
+    position: sticky;
     top: 0;
+    text-align: center;
+    z-index: 10;
 }
 .navList{
     display: flex;
     list-style: none;
     color: white;
     padding-top: 30px;
-
+    text-align: center;
+    margin: 0 auto;
     
 }
 .navList li a{
@@ -236,4 +239,14 @@ div{
   /* this code is for the shop page */
   .headshops{
       width: 100%;
+  }
+  .line{
+      height: 3px;
+      width: 50px;
+      margin: 0 auto;
+      background-color: #666666;
+  }
+  .note{
+      text-align: center;
+      margin: 0 auto;
   }
