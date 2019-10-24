@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Title
 
 furniture store
@@ -86,3 +87,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Inspiration
 * etc
 
+=======
+# furniture-store
+>>>>>>> 795b0047ae0081c2bff7f6aa02ddec96bb99c677
