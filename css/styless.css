@@ -19,9 +19,9 @@ html,
     
 }
 #title{
-    font-size: 10rem;
+    font-size: 5rem;
     color: white;
-    padding-top: 20rem;
+    padding-top: 10rem;
     
 }
 
@@ -146,6 +146,7 @@ div{
         background-color: black;
         color: white;
         align-items: center;
+        text-align: center;
     
 }
 .bottom{
@@ -168,6 +169,7 @@ div{
 .row-footer{
     align-items: center;
     padding-top: 6rem;
+    display: flex;
 }
 .arrow {
     text-align: center;
@@ -230,4 +232,8 @@ div{
     border: solid 1px #e6e6e6;
     background-color: #f0f0f0;
     text-align: center;
+  }
+  /* this code is for the shop page */
+  .headshops{
+      width: 100%;
   }

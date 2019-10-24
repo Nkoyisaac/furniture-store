@@ -2,6 +2,9 @@
     width: 200px;
     height: 200px;
 }
+.img:hover{
+    transform: scale(1.5);
+}
 th{
     font-size: 2em;
     background-color: #f9ddff;
