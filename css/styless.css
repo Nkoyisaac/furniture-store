@@ -93,6 +93,7 @@ html,
   /* this is the h1 in the section class */
 .featured{
     text-align: center;
+    padding-top: 20px;
 }
 div{
     margin:0 auto;
@@ -246,7 +247,8 @@ div{
       margin: 0 auto;
       background-color: #666666;
   }
-  .note{
+  #note{
       text-align: center;
       margin: 0 auto;
+      padding-top: 65px;
   }
